@@ -2,7 +2,7 @@
 <body>
 <table style="font-family:calibri;font-size 11pt;">
 <tr><td><img src="https://github.com/hemant-batra/tesla/blob/master/src/tesla/images/tesla-server.png"/></td><td>
-<span style="font-size:16pt;font-weight:bold;color:#aa0000">Tesla Web Server</span><br>
+<span style="font-size:16pt;font-weight:bold;color:#aa0000"><b>Tesla Web Server</b></span><br>
 Powered by the Java<sup style="font-size:6pt;">TM</sup> HTTP Server<br>
 Developer: <a href="mailto:hemant.batra@theinnovationinc.co">Hemant Batra</a><br>
 Download: <a href="https://sites.google.com/site/teslawebserver/tesla-1.4.jar">tesla-1.4.jar</a><br>
