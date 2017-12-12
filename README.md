@@ -115,7 +115,7 @@ The method <i>Persistence.acquireLock(MyPersistentObject.class)</i> obtains a lo
 </p>
 <div style="font-family:calibri;font-size:11pt;">
 Tesla Web Server provides a mechanism to use the functionalities provided in the persistence framework in the services that it exposes. Two extra service classes called <i>ReadService</i> and <i>WriteService</i> are exposed.
-<br><font color="#880000"><i><b>ReadService</b></i></font>: This facilitates a user to read a persistent object in a service without bothering about the implementation details.
+<br><br><font color="#880000"><i><b>ReadService</b></i></font>: This facilitates a user to read a persistent object in a service without bothering about the implementation details.
 <table><tr><td width="40px"></td><td>
 <code><br>
 public class SampleReadService extends ReadService&lt;<b>ReturnType</b>,<b>PersistentType</b>&gt;
