@@ -2,9 +2,8 @@
 <body>
 <table style="font-family:calibri;font-size 11pt;">
 <tr><td><img src="https://github.com/hemant-batra/tesla/blob/master/src/tesla/images/tesla-server.png"/></td><td>
-<span style="font-size:16pt;font-weight:bold;color:#aa0000"><b>Tesla Web Server</b></span><br>
-Powered by the Java<sup style="font-size:6pt;">TM</sup> HTTP Server<br>
-<a href="https://2d54cc3d-a-62cb3a1a-s-sites.googlegroups.com/site/teslawebserver/tesladoc.pdf?attachauth=ANoY7crj_E7WvU0ouM34pjTOYKC-6FeCAr2qnzTsbt-hbMpjs0VuKD9WPZDZC1-zsp3PjaleuYONVwV6CVXvQkshY65Pq6HiE0Wf_rXOubbVn2dz5k-FRprbL71neUOHd7FNn0FFtmWo0S1nnHAwuIeAA3UdUzWVVGKP9pNCHFYdjCpG1M4ognIRsAX69lc0r1opaEq3MbEzGTJ8gFFJv9aGL6aXnnlNzw%3D%3D&attredirects=0">View PDF</a>
+<span style="font-size:16pt;font-weight:bold;color:#aa0000"><b>Tesla</b> - Endpoint & Persistence framework</span><br>
+Built on Java<sup style="font-size:6pt;">TM</sup> HTTP Server & Serialization<br>
 </td></tr>
 </table>
 <hr>
