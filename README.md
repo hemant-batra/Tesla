@@ -5,7 +5,8 @@
 <span style="font-size:16pt;font-weight:bold;color:#aa0000">Tesla Web Server</span><br>
 Powered by the Java<sup style="font-size:6pt;">TM</sup> HTTP Server<br>
 Developer: <a href="mailto:hemant.batra@theinnovationinc.co">Hemant Batra</a><br>
-Download: <a href="https://sites.google.com/site/teslawebserver/tesla-1.4.jar">tesla-1.4.jar</a>
+Download: <a href="https://sites.google.com/site/teslawebserver/tesla-1.4.jar">tesla-1.4.jar</a><br>
+Documentation: <a href="https://2d54cc3d-a-62cb3a1a-s-sites.googlegroups.com/site/teslawebserver/tesladoc.pdf?attachauth=ANoY7crj_E7WvU0ouM34pjTOYKC-6FeCAr2qnzTsbt-hbMpjs0VuKD9WPZDZC1-zsp3PjaleuYONVwV6CVXvQkshY65Pq6HiE0Wf_rXOubbVn2dz5k-FRprbL71neUOHd7FNn0FFtmWo0S1nnHAwuIeAA3UdUzWVVGKP9pNCHFYdjCpG1M4ognIRsAX69lc0r1opaEq3MbEzGTJ8gFFJv9aGL6aXnnlNzw%3D%3D&attredirects=0">View</a>
 </td></tr>
 </table>
 <hr>
