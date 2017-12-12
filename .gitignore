@@ -13,6 +13,8 @@ local.properties
 .loadpath
 .recommenders
 
+workspace.xml
+
 # External tool builders
 .externalToolBuilders/
 
