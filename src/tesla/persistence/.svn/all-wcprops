@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/CRM/MFS/M-Commerce/!svn/ver/111717/Mobiquity/trunk/Code/v3.0/MOBIQUITY_TIGO_TANZANIA/Tools/TeslaServer/src/tesla/persistence
+END
+Persistent.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/CRM/MFS/M-Commerce/!svn/ver/111660/Mobiquity/trunk/Code/v3.0/MOBIQUITY_TIGO_TANZANIA/Tools/TeslaServer/src/tesla/persistence/Persistent.java
+END
+Cache.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/CRM/MFS/M-Commerce/!svn/ver/111660/Mobiquity/trunk/Code/v3.0/MOBIQUITY_TIGO_TANZANIA/Tools/TeslaServer/src/tesla/persistence/Cache.java
+END
+Persistence.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/CRM/MFS/M-Commerce/!svn/ver/111660/Mobiquity/trunk/Code/v3.0/MOBIQUITY_TIGO_TANZANIA/Tools/TeslaServer/src/tesla/persistence/Persistence.java
+END
+Converter.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/CRM/MFS/M-Commerce/!svn/ver/111717/Mobiquity/trunk/Code/v3.0/MOBIQUITY_TIGO_TANZANIA/Tools/TeslaServer/src/tesla/persistence/Converter.java
+END
+Serializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/CRM/MFS/M-Commerce/!svn/ver/111660/Mobiquity/trunk/Code/v3.0/MOBIQUITY_TIGO_TANZANIA/Tools/TeslaServer/src/tesla/persistence/Serializer.java
+END
+Waiter.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/CRM/MFS/M-Commerce/!svn/ver/111660/Mobiquity/trunk/Code/v3.0/MOBIQUITY_TIGO_TANZANIA/Tools/TeslaServer/src/tesla/persistence/Waiter.java
+END

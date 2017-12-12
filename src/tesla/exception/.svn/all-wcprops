@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/CRM/MFS/M-Commerce/!svn/ver/111659/Mobiquity/trunk/Code/v3.0/MOBIQUITY_TIGO_TANZANIA/Tools/TeslaServer/src/tesla/exception
+END
+TeslaIOException.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/CRM/MFS/M-Commerce/!svn/ver/111596/Mobiquity/trunk/Code/v3.0/MOBIQUITY_TIGO_TANZANIA/Tools/TeslaServer/src/tesla/exception/TeslaIOException.java
+END
+TeslaObjectAlreadyLockedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/CRM/MFS/M-Commerce/!svn/ver/111596/Mobiquity/trunk/Code/v3.0/MOBIQUITY_TIGO_TANZANIA/Tools/TeslaServer/src/tesla/exception/TeslaObjectAlreadyLockedException.java
+END
+TeslaReflectionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/CRM/MFS/M-Commerce/!svn/ver/111596/Mobiquity/trunk/Code/v3.0/MOBIQUITY_TIGO_TANZANIA/Tools/TeslaServer/src/tesla/exception/TeslaReflectionException.java
+END
+TeslaSerializationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/CRM/MFS/M-Commerce/!svn/ver/111596/Mobiquity/trunk/Code/v3.0/MOBIQUITY_TIGO_TANZANIA/Tools/TeslaServer/src/tesla/exception/TeslaSerializationException.java
+END
+TeslaServerInitializationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/CRM/MFS/M-Commerce/!svn/ver/111596/Mobiquity/trunk/Code/v3.0/MOBIQUITY_TIGO_TANZANIA/Tools/TeslaServer/src/tesla/exception/TeslaServerInitializationException.java
+END
+TeslaException.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/CRM/MFS/M-Commerce/!svn/ver/111608/Mobiquity/trunk/Code/v3.0/MOBIQUITY_TIGO_TANZANIA/Tools/TeslaServer/src/tesla/exception/TeslaException.java
+END
+TeslaFileException.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/CRM/MFS/M-Commerce/!svn/ver/111596/Mobiquity/trunk/Code/v3.0/MOBIQUITY_TIGO_TANZANIA/Tools/TeslaServer/src/tesla/exception/TeslaFileException.java
+END
+TeslaDeserializationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/CRM/MFS/M-Commerce/!svn/ver/111596/Mobiquity/trunk/Code/v3.0/MOBIQUITY_TIGO_TANZANIA/Tools/TeslaServer/src/tesla/exception/TeslaDeserializationException.java
+END

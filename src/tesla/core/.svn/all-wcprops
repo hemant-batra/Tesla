@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/CRM/MFS/M-Commerce/!svn/ver/112886/Mobiquity/trunk/Code/v3.0/MOBIQUITY_TIGO_TANZANIA/Tools/TeslaServer/src/tesla/core
+END
+TeslaServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/CRM/MFS/M-Commerce/!svn/ver/111714/Mobiquity/trunk/Code/v3.0/MOBIQUITY_TIGO_TANZANIA/Tools/TeslaServer/src/tesla/core/TeslaServer.java
+END
+Service.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/CRM/MFS/M-Commerce/!svn/ver/112505/Mobiquity/trunk/Code/v3.0/MOBIQUITY_TIGO_TANZANIA/Tools/TeslaServer/src/tesla/core/Service.java
+END
+ServerManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/CRM/MFS/M-Commerce/!svn/ver/112246/Mobiquity/trunk/Code/v3.0/MOBIQUITY_TIGO_TANZANIA/Tools/TeslaServer/src/tesla/core/ServerManager.java
+END
+WriteService.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/CRM/MFS/M-Commerce/!svn/ver/112246/Mobiquity/trunk/Code/v3.0/MOBIQUITY_TIGO_TANZANIA/Tools/TeslaServer/src/tesla/core/WriteService.java
+END
+ReadService.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/CRM/MFS/M-Commerce/!svn/ver/112246/Mobiquity/trunk/Code/v3.0/MOBIQUITY_TIGO_TANZANIA/Tools/TeslaServer/src/tesla/core/ReadService.java
+END
+RequestFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/CRM/MFS/M-Commerce/!svn/ver/112886/Mobiquity/trunk/Code/v3.0/MOBIQUITY_TIGO_TANZANIA/Tools/TeslaServer/src/tesla/core/RequestFilter.java
+END
