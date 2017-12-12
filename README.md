@@ -2,11 +2,8 @@
 <body>
 <table style="font-family:calibri;font-size 11pt;">
 <tr><td><img src="https://github.com/hemant-batra/tesla/blob/master/src/tesla/images/tesla-server.png"/></td><td>
-<span style="font-size:16pt;font-weight:bold;color:#aa0000"><b>Tesla Web Server</b></span><br>
-Powered by the Java<sup style="font-size:6pt;">TM</sup> HTTP Server<br>
-Developer: <a href="mailto:hemant.batra@theinnovationinc.co">Hemant Batra</a><br>
-Download: <a href="https://sites.google.com/site/teslawebserver/tesla-1.4.jar">tesla-1.4.jar</a><br>
-Documentation: <a href="https://2d54cc3d-a-62cb3a1a-s-sites.googlegroups.com/site/teslawebserver/tesladoc.pdf?attachauth=ANoY7crj_E7WvU0ouM34pjTOYKC-6FeCAr2qnzTsbt-hbMpjs0VuKD9WPZDZC1-zsp3PjaleuYONVwV6CVXvQkshY65Pq6HiE0Wf_rXOubbVn2dz5k-FRprbL71neUOHd7FNn0FFtmWo0S1nnHAwuIeAA3UdUzWVVGKP9pNCHFYdjCpG1M4ognIRsAX69lc0r1opaEq3MbEzGTJ8gFFJv9aGL6aXnnlNzw%3D%3D&attredirects=0">View</a>
+<span style="font-size:16pt;font-weight:bold;color:#aa0000"><b>Tesla</b> - Endpoint & Persistence framework</span><br>
+Built on Java<sup style="font-size:6pt;">TM</sup> HTTP Server & Serialization<br>
 </td></tr>
 </table>
 <hr>
@@ -114,11 +111,11 @@ The method <i>Persistence.acquireLock(MyPersistentObject.class)</i> obtains a lo
 </div>
 <hr>
 <p style="font-family:calibri;font-size:11pt;">
-<span style="color:0000cc;font-weight:bold;"><b>Using Persistence with Services<b></span>
+<span style="color:0000cc;font-weight:bold;"><b>Using Persistence with Services</b></span>
 </p>
 <div style="font-family:calibri;font-size:11pt;">
 Tesla Web Server provides a mechanism to use the functionalities provided in the persistence framework in the services that it exposes. Two extra service classes called <i>ReadService</i> and <i>WriteService</i> are exposed.
-<br><font color="#880000"><i><b>ReadService</b></i></font>: This facilitates a user to read a persistent object in a service without bothering about the implementation details.
+<br><br><font color="#880000"><i><b>ReadService</b></i></font>: This facilitates a user to read a persistent object in a service without bothering about the implementation details.
 <table><tr><td width="40px"></td><td>
 <code><br>
 public class SampleReadService extends ReadService&lt;<b>ReturnType</b>,<b>PersistentType</b>&gt;
