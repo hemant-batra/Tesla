@@ -1,111 +1,23 @@
-# Created by .ignore support plugin (hsz.mobi)
-### Eclipse template
-
-.metadata
-bin/
-tmp/
-*.tmp
-*.bak
-*.swp
-*~.nib
-local.properties
+# Eclipse
+.classpath
+.project
 .settings/
-.loadpath
-.recommenders
 
-workspace.xml
+# Intellij
+.idea/
+*.iml
+*.iws
 
-# External tool builders
-.externalToolBuilders/
+# Mac
+.DS_Store
 
-# Locally stored "Eclipse launch configurations"
-*.launch
+# Maven
+log/
+target/
 
-# PyDev specific (Python IDE for Eclipse)
-*.pydevproject
-
-# CDT-specific (C/C++ Development Tooling)
-.cproject
-
-# Java annotation processor (APT)
-.factorypath
-
-# PDT-specific (PHP Development Tools)
-.buildpath
-
-# sbteclipse plugin
-.target
-
-# Tern plugin
-.tern-project
-
-# TeXlipse plugin
-.texlipse
-
-# STS (Spring Tool Suite)
-.springBeans
-
-# Code Recommenders
-.recommenders/
-
-# Scala IDE specific (Scala & Java development for Eclipse)
-.cache-main
-.scala_dependencies
-.worksheet
-### Java template
-# Compiled class file
-*.class
-
-# Log file
-*.log
-
-# BlueJ files
-*.ctxt
-
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
-
-# Package Files #
-*.jar
-*.war
-*.ear
-*.zip
-*.tar.gz
-*.rar
-
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
-
-.gitignore
-.idea/inspectionProfiles/
-.settings/.svn/prop-base/
-.settings/.svn/props/
-.settings/.svn/tmp/
-src/.svn/prop-base/
-src/.svn/props/
-src/.svn/text-base/
-src/.svn/tmp/
-src/tesla/.svn/prop-base/
-src/tesla/.svn/props/
-src/tesla/.svn/text-base/
-src/tesla/.svn/tmp/
-src/tesla/core/.svn/prop-base/
-src/tesla/core/.svn/props/
-src/tesla/core/.svn/tmp/
-src/tesla/exception/.svn/prop-base/
-src/tesla/exception/.svn/props/
-src/tesla/exception/.svn/tmp/
-src/tesla/images/.svn/props/
-src/tesla/images/.svn/tmp/
-src/tesla/pages/.svn/prop-base/
-src/tesla/pages/.svn/props/
-src/tesla/pages/.svn/tmp/
-src/tesla/persistence/.svn/prop-base/
-src/tesla/persistence/.svn/props/
-src/tesla/persistence/.svn/tmp/
-src/tesla/services/.svn/prop-base/
-src/tesla/services/.svn/props/
-src/tesla/services/.svn/tmp/
-src/tesla/store/.svn/prop-base/
-src/tesla/store/.svn/props/
-src/tesla/store/.svn/tmp/
+#Gradle
+.gradletasknamecache
+.gradle/
+build/
+bin/
+out/
