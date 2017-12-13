@@ -20,3 +20,5 @@ target/
 build/
 bin/
 out/
+
+lib
